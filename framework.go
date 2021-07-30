@@ -5,9 +5,9 @@ import (
 	"fmt"
 	"time"
 
-	"github.com/hyplabs/dfinity-oracle-framework/models"
-	"github.com/hyplabs/dfinity-oracle-framework/summary"
-	"github.com/hyplabs/dfinity-oracle-framework/utils"
+	"github.com/achirkov/dfinity-oracle-framework/models"
+	"github.com/achirkov/dfinity-oracle-framework/summary"
+	"github.com/achirkov/dfinity-oracle-framework/utils"
 	"github.com/sirupsen/logrus"
 )
 
