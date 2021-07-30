@@ -1,4 +1,4 @@
-module github.com/achirkov/dfinity-oracle-framework
+module github.com/hyplabs/dfinity-oracle-framework
 
 go 1.14
 
